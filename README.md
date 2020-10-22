@@ -1,1 +1,1 @@
-# nginx-sample
+# nginx-hello-world
